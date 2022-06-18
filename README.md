@@ -6,3 +6,6 @@ I will start with the most famous advanced football statistic called as "xG" or 
 
 ## Further Questions and Suggestions
 You can always contact me on my personal email (ardatiftikci@gmail.com) for further questions and suggestions.
+
+## Acknowledgements
+- I am thankful to [Oğuz Celal Şafak](https://github.com/OguzCSafak) and [Ömer Faruk Aksoy](https://github.com/omeraksoy1) for their help while gathering and preprocessing the datasets.
