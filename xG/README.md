@@ -7,6 +7,6 @@ I used some shoot dataset which at features such as position of the shot, player
 For each method, used features and their possible values will be present at the beginning of each method.
 ## TabNet
 First, I will use TabNet [1] that is a model achieves SOTA performance on tabular data. Since our data is tabular, I decided to apply TabNet Binary Classifier. I will evaluate the performance of the model with Mean Absolute Percentage Error between model's prediction and given xG in addition to the usual methods. Note that xG values of the dataset are not used during training, they are only used for evaluating like a baseline.
-Other details are present in the [xG Prediction with TabNet](xG_prediction_with_TabNet).
+Other details are present in the [xG Prediction with TabNet](xG_prediction_with_TabNet.ipynb).
 ## References
 [1] S. Ö. Arik και T. Pfister, ‘TabNet: Attentive Interpretable Tabular Learning’, CoRR, τ. abs/1908.07442, 2019.
